@@ -1,10 +1,10 @@
 user_id = {
     0: 'Root',
-    1: 'Moses',
-    2: 'Noel',
-    3: 'Thiago',
-    4: 'Anna',
-    5: 'Sarah',
+    1: '',
+    2: '',
+    3: '',
+    4: '',
+    5: '',
 }
 
 def greeting(id):

@@ -71,16 +71,12 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'healthcare_db',
         'USER':'root',
-        #'PASSWORD':'M@tech@pp1234',
         'PASSWORD':'',
         'HOST':'127.0.0.1',
         'PORT':'3306'
     }
 }
 
-
-# Password validation
-# https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
 
 AUTH_PASSWORD_VALIDATORS = [
     {
